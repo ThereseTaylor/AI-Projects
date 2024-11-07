@@ -65,36 +65,3 @@ To set up and run these projects, follow these steps:
      ```bash
      python <script_name>.py
      ```
-
----
-
-## 📊 Project Details
-
-### 1. Fruit Classifier (CNN)
-
-This project applies a **Convolutional Neural Network (CNN)** to classify fruit images as either fresh or rotten. The model leverages deep learning techniques, including convolutional and dense layers, to extract features and make predictions on image data.
-
-- **Data Augmentation**: Applies transformations to images to improve model generalization.
-- **Evaluation Metrics**: Uses accuracy to assess the model's performance.
-
-### 2. Music Recommender System
-
-This project implements a recommender system to suggest music tracks to users using collaborative and content-based filtering techniques. The system provides personalized music recommendations based on user preferences.
-
-- **Collaborative Filtering**: Recommends items based on user behavior similarity.
-- **Content-Based Filtering**: Recommends items based on item attributes and user profiles.
-- **Evaluation Metrics**: Includes precision, recall, and ranking metrics.
-
-### 3. Forest Fire Detection (SVC & Random Forest Models)
-
-This project includes Support Vector Classifier (SVC) and Random Forest models to detect forest fires based on environmental data. These machine learning models classify data into fire and non-fire classes to assist in fire detection and prevention.
-
-- **Data Processing**: Prepares environmental data for model input.
-- **Model Comparison**: Evaluates SVC and Random Forest models on classification performance.
-
-### 4. Bitcoin Money Laundering Detection (Random Forest Model)
-
-This project applies a Random Forest model to classify Bitcoin transactions as either licit or illicit. The model uses transaction features to calculate a risk score, helping detect potentially illicit activities.
-
-- **Risk Score Calculation**: Generates risk scores to assess transaction legality.
-- **Evaluation Metrics**: Uses accuracy and confusion matrix for model evaluation.

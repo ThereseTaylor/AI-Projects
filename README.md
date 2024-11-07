@@ -11,6 +11,7 @@ Welcome to this collection of machine learning and recommender system projects! 
    - Uses a Convolutional Neural Network (CNN) to classify images of fruits as fresh or rotten.
    - **Key Features**: Deep learning with convolutional layers, data augmentation for generalization.
    - **File**: `CNN.ipynb`
+   - **Dataset**: https://zenodo.org/records/7224690
 
 2. **Music Recommender System**:
    - Implements various recommendation algorithms to suggest music tracks to users based on collaborative and content-based filtering.

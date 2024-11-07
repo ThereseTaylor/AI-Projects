@@ -10,6 +10,7 @@ Welcome to this collection of machine learning and recommender system projects! 
 1. **Fruit Classifier (CNN)**:
    - Uses a Convolutional Neural Network (CNN) to classify images of fruits as fresh or rotten.
    - **Key Features**: Deep learning with convolutional layers, data augmentation for generalization.
+   - **Accuracy**: 97%
    - **File**: `CNN.ipynb`
    - **Dataset**: https://zenodo.org/records/7224690
 
@@ -17,11 +18,11 @@ Welcome to this collection of machine learning and recommender system projects! 
    - Implements various recommendation algorithms to suggest music tracks to users based on collaborative and content-based filtering.
    - **Key Features**: Collaborative filtering, content-based filtering, recommendation metrics.
    - **File**: `Recommenders.py`
-     
 
 3. **Forest Fire Detection (SVC & Random Forest Models)**:
    - Contains implementations of Support Vector Classifier (SVC) and Random Forest models to detect forest fires based on environmental data.
    - **Key Features**: Multi-model comparison, binary classification.
+   - **Accuracy**: 89%
    - **Files**: `SCV & KNN Models.py`, `RandomForest.py`
    - **Dataset**: https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
 
@@ -29,6 +30,7 @@ Welcome to this collection of machine learning and recommender system projects! 
    - Uses a Random Forest model to classify Bitcoin transactions as licit or illicit based on risk scores and transaction data.
    - **Key Features**: Risk score calculation, binary classification, fraud detection.
    - **File**: `RF_Model.ipynb`
+   - **Accuracy**: 98%
    - **Dataset**: https://www.kaggle.com/datasets/pablodejuanfidalgo/augmented-elliptic-data-set
 
 ---

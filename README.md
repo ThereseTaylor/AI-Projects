@@ -1,7 +1,7 @@
 
-# 🧠 Machine Learning and Recommender System Projects || Author - Therese Taylor
+# 🧠 Machine Learning Projects
 
-Welcome to this collection of machine learning and recommender system projects! This repository includes various projects utilizing machine learning and deep learning models for a variety of applications, ranging from image classification to music recommendation and fraud detection.
+Welcome to this collection of machine learning and recommender system projects! This repository includes various projects that uses machine learning and deep learning models for a variety of applications, ranging from image classification to music recommendation and fraud detection.
 
 ---
 
@@ -94,9 +94,3 @@ This project applies a Random Forest model to classify Bitcoin transactions as e
 
 - **Risk Score Calculation**: Generates risk scores to assess transaction legality.
 - **Evaluation Metrics**: Uses accuracy and confusion matrix for model evaluation.
-
----
-
-## License
-
-This project is licensed under the MIT License.
